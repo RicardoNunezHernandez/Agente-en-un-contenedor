@@ -1,0 +1,8 @@
+# Secretos: nunca se suben a GitHub
+.env
+token.env
+client_secrets.json
+token_usuario.json
+
+# Archivos temporales de Python
+__pycache__/

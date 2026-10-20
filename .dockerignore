@@ -1,0 +1,9 @@
+# Secretos: nunca entran a la imagen
+.env
+token.env
+client_secrets.json
+token_usuario.json
+
+# No los necesita el contenedor
+.git
+__pycache__/
